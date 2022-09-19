@@ -26,7 +26,7 @@ pv_volts=0.0
 pv_power=0.0
 Wh_today=0
 current_temp=0.0
-cmo_str='None'
+com_str='None'
 
 for i in range(NoInvert):
 # Read data from inverter
